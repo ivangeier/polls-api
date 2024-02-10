@@ -27,7 +27,7 @@ Built with integration to PostgreSQL and Redis, and developed with Node.js, it e
 
 ## Diagram
 
-[](https://github.com/ivangeier/polls-api/blob/master/public/Diagram.png)
+![](https://github.com/ivangeier/polls-api/blob/master/public/Diagram.png)
 
 ## Instalation
 

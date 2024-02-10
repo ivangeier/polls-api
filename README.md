@@ -1,6 +1,6 @@
 # Polls-API
 
-PollAPI with Real-Time Results is an advanced API designed to manage polls with unlimited options for voting, now with the added capability of real-time result updates via WebSockets.
+Poll-API with Real-Time Results is an API designed to manage polls with unlimited options for voting, now with the added capability of real-time result updates via WebSockets.
 
 This project simplifies the process of creating, retrieving, and managing polls through a RESTful interface while providing users with the ability to follow poll results in real-time.
 
@@ -17,13 +17,13 @@ Built with integration to PostgreSQL and Redis, and developed with Node.js, it e
 
 ## Key Features
 
-- Poll Creation: Easily create polls with any number of options for users to vote on. The API supports dynamic creation of polls, allowing flexibility in designing your voting scenarios.
-- Voting System: Users can cast their votes for their preferred options in the poll. The system ensures fairness and accuracy in tallying votes, enabling a smooth voting experience for participants.
-- Retrieval of Polls: Retrieve individual polls by their unique identifiers or fetch a list of all available polls. This feature facilitates easy access to poll information for analysis or presentation purposes.
-- Real-Time Result Updates: WebSocket integration allows users to follow poll results in real-time. As votes are cast, the WebSocket connection provides immediate updates on the current state of the poll, enhancing user engagement and interactivity.
-- Integration with PostgreSQL: Leveraging the power and reliability of PostgreSQL, the API ensures robust data storage and management. PostgreSQL serves as the primary database for storing poll configurations and metadata.
-- Redis Integration for Vote Counting: Utilizing Redis, the API efficiently stores and updates the total number of votes for each poll. Redis acts as a high-performance in-memory data store, optimizing the process of tallying and retrieving poll vote counts.
-- Scalability and Performance: With PostgreSQL, Redis, and Node.js, the API guarantees scalability and performance, enabling seamless handling of high volumes of poll data, concurrent user interactions, and real-time updates.
+- **Poll Creation:** Easily create polls with any number of options for users to vote on. The API supports dynamic creation of polls, allowing flexibility in designing your voting scenarios.
+- **Voting System:** Users can cast their votes for their preferred options in the poll. The system ensures fairness and accuracy in tallying votes, enabling a smooth voting experience for participants.
+- **Retrieval of Polls:** Retrieve individual polls by their unique identifiers or fetch a list of all available polls. This feature facilitates easy access to poll information for analysis or presentation purposes.
+- **Real-Time Result Updates:** WebSocket integration allows users to follow poll results in real-time. As votes are cast, the WebSocket connection provides immediate updates on the current state of the poll, enhancing user engagement and interactivity.
+- **Integration with PostgreSQL:** Leveraging the power and reliability of PostgreSQL, the API ensures robust data storage and management. PostgreSQL serves as the primary database for storing poll configurations and metadata.
+- **Redis Integration for Vote Counting:** Utilizing Redis, the API efficiently stores and updates the total number of votes for each poll. Redis acts as a high-performance in-memory data store, optimizing the process of tallying and retrieving poll vote counts.
+- **Scalability and Performance:** With PostgreSQL, Redis, and Node.js, the API guarantees scalability and performance, enabling seamless handling of high volumes of poll data, concurrent user interactions, and real-time updates.
 
 ## Instalation
 

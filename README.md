@@ -25,6 +25,10 @@ Built with integration to PostgreSQL and Redis, and developed with Node.js, it e
 - **Redis Integration for Vote Counting:** Utilizing Redis, the API efficiently stores and updates the total number of votes for each poll. Redis acts as a high-performance in-memory data store, optimizing the process of tallying and retrieving poll vote counts.
 - **Scalability and Performance:** With PostgreSQL, Redis, and Node.js, the API guarantees scalability and performance, enabling seamless handling of high volumes of poll data, concurrent user interactions, and real-time updates.
 
+## Diagram
+
+[](https://github.com/ivangeier/polls-api/blob/master/public/Diagram.png)
+
 ## Instalation
 
 Clone the poject

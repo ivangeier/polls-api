@@ -59,7 +59,7 @@ Here some features and improviments that I want to add in this project:
 
 ## Contribution:
 
-Contributions to PollAPI with Real-Time Results are welcome! Feel free to fork the repository, make improvements, and submit pull requests to enhance the functionality or fix any issues.
+Contributions to PollAPI are welcome! Feel free to fork the repository, make improvements, and submit pull requests to enhance the functionality or fix any issues.
 
 ## License:
 
@@ -67,6 +67,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact:
 
-For any inquiries or support, please contact vilajr.ivanQ@gmail.com.
+For any inquiries or support, please contact vilajr.ivan@gmail.com.
 
 
